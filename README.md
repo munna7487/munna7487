@@ -1,13 +1,13 @@
 [![MasterHead](https://i.ibb.co/hxfFGTxJ/Gemini-Generated-Image-mwyqsomwyqsomwyq.png)](https://rishavchanda.io)
 
 
-<h1 align="center">Hi , I'm <span style="color:#4BB543;">Meharab Rahman</span></h1>
+<h1 align="center">Hi , I'm <span style="color:#4BB543;">Ismail Munna</span></h1>
 <h3 align="center"> MERN Stack Web Developer | Crafting Modern Full-Stack Applications</h3>
 
 ---
 
 ##  About Me
-Hi! I'm *Meharab Rahman*, a passionate MERN Stack developer from Bangladesh.  
+Hi! I'm *Ismail Munna*, a passionate MERN Stack developer from Bangladesh.  
 I love building modern, responsive and user-friendly web applications.  
 I also focus on *OOP, DSA*, and writing scalable backend systems.
 
@@ -23,13 +23,6 @@ I also focus on *OOP, DSA*, and writing scalable backend systems.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **a web project**
-
-- 🌱 I’m currently learning **c/c++**
-
-- 🤝 I’m looking for help with **web develoapment**
-
-- 💬 Ask me about **web develoapment**
 
 - 📫 How to reach me **ismailhossainmunna8@gmail.com**
 

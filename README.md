@@ -1,4 +1,5 @@
-[![MasterHead](https://i.ibb.co/hxfFGTxJ/Gemini-Generated-Image-mwyqsomwyqsomwyq.png)](https://i.ibb.co.com/zHBjGnkF/Chat-GPT-Image-Nov-19-2025-05-15-16-PM.png)
+![MasterHead](https://i.ibb.co.com/zHBjGnkF/Chat-GPT-Image-Nov-19-2025-05-15-16-PM.png)
+
 
 
 <h1 align="center">Hi , I'm <span style="color:#4BB543;">Ismail Munna</span></h1>

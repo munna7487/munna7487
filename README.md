@@ -1,4 +1,5 @@
-[![MasterHead](https://i.ibb.co/hxfFGTxJ/Gemini-Generated-Image-mwyqsomwyqsomwyq.png)](https://rishavchanda.io)
+[![MasterHead](https://i.ibb.co.com/hxfFGTxJ/Gemini-Generated-Image-mwyqsomwyqsomwyq.png)](https://rishavchanda.io)
+
 
 
 <h1 align="center">Hi , I'm <span style="color:#4BB543;">Ismail Munna</span></h1>

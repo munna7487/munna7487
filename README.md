@@ -1,7 +1,9 @@
 [![MasterHead](https://i.ibb.co/hxfFGTxJ/Gemini-Generated-Image-mwyqsomwyqsomwyq.png)](https://rishavchanda.io)
 
 
-
+<a href="https://i.ibb.co.com/zHBjGnkF/Chat-GPT-Image-Nov-19-2025-05-15-16-PM.png">
+  <img src="https://i.ibb.co/hxfFGTxJ/Gemini-Generated-Image-mwyqsomwyqsomwyq.png" alt="MasterHead" style="width:100%; max-width:600px;">
+</a>
 
 
 <h1 align="center">Hi , I'm <span style="color:#4BB543;">Ismail Munna</span></h1>

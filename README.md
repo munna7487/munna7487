@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/zHBjGnk/Chat-GPT-Image-Nov-19-2025-05-15-16-PM.png)](https://github.com/munna7487)
+[![MasterHead](https://i.ibb.co/hxfFGTxJ/Gemini-Generated-Image-mwyqsomwyqsomwyq.png)](https://rishavchanda.io)
 
 
 

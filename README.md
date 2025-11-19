@@ -1,6 +1,3 @@
-
-
-
 [![MasterHead](https://i.ibb.co/hxfFGTxJ/Gemini-Generated-Image-mwyqsomwyqsomwyq.png)](https://i.ibb.co.com/zHBjGnkF/Chat-GPT-Image-Nov-19-2025-05-15-16-PM.png)
 
 

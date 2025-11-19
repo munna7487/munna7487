@@ -1,4 +1,5 @@
-[![MasterHead](https://i.ibb.co.com/zHBjGnkF/Chat-GPT-Image-Nov-19-2025-05-15-16-PM.png)](https://rishavchanda.io)
+[![MasterHead](https://i.ibb.co/zHBjGnk/Chat-GPT-Image-Nov-19-2025-05-15-16-PM.png)](https://rishavchanda.io)
+
 
 
 

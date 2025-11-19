@@ -1,9 +1,22 @@
 [![MasterHead](https://i.ibb.co/hxfFGTxJ/Gemini-Generated-Image-mwyqsomwyqsomwyq.png)](https://rishavchanda.io)
 
 
+<h1 align="center">Hi , I'm <span style="color:#4BB543;">Meharab Rahman</span></h1>
+<h3 align="center"> MERN Stack Web Developer | Crafting Modern Full-Stack Applications</h3>
 
-<h1 align="center">Hi 👋, I'm Ismail Munna</h1>
-<h3 align="center"># Hi, I'm Munna 👋 Frontend Developer passionate about building beautiful, responsive web apps with HTML, CSS, JavaScript & React. Always learning, always shipping. ✨</h3>
+---
+
+##  About Me
+Hi! I'm *Meharab Rahman*, a passionate MERN Stack developer from Bangladesh.  
+I love building modern, responsive and user-friendly web applications.  
+I also focus on *OOP, DSA*, and writing scalable backend systems.
+
+ *Currently exploring / working on:*
+ Full-stack development with *React, Node.js, Express & MongoDB*
+ UI/UX building using *HTML, CSS, TailwindCSS*
+ Authentication & backend integrations using *Firebase*
+ Improving problem-solving through *DSA*
+ API optimization & database structuring
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munna7487&label=Profile%20views&color=0e75b6&style=flat" alt="munna7487" /> </p>
